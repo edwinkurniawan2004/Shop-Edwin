@@ -1,0 +1,30 @@
+.form-check {
+	margin-top: 8px;
+}
+
+ul {
+	margin-right: 10px;
+}
+
+ul li{
+	margin-right: 5px;
+}
+
+.fab,
+.fas {
+	/*color: #777;*/
+	margin: 10px;
+}
+
+.colorBody{
+	background: linear-gradient(#4b086d, #acc0fe);
+}
+
+.colorCard,
+.colorNavbar,
+.colorAlert{
+	background: linear-gradient(#361163, #4c677d);
+}
+
+
+
